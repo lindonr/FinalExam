@@ -1,0 +1,9 @@
+D:\Hemel\Lindon\Final_Exam\Final_Exam\bin\Debug\Final_Exam.exe.config
+D:\Hemel\Lindon\Final_Exam\Final_Exam\bin\Debug\Final_Exam.exe
+D:\Hemel\Lindon\Final_Exam\Final_Exam\bin\Debug\Final_Exam.pdb
+D:\Hemel\Lindon\Final_Exam\Final_Exam\obj\Debug\Final_Exam.csprojResolveAssemblyReference.cache
+D:\Hemel\Lindon\Final_Exam\Final_Exam\obj\Debug\Final_Exam.Form1.resources
+D:\Hemel\Lindon\Final_Exam\Final_Exam\obj\Debug\Final_Exam.Properties.Resources.resources
+D:\Hemel\Lindon\Final_Exam\Final_Exam\obj\Debug\Final_Exam.csproj.GenerateResource.Cache
+D:\Hemel\Lindon\Final_Exam\Final_Exam\obj\Debug\Final_Exam.exe
+D:\Hemel\Lindon\Final_Exam\Final_Exam\obj\Debug\Final_Exam.pdb
